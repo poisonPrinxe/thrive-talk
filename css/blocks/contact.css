@@ -1,0 +1,36 @@
+.contact {
+  color: white;
+  background-color: #22356F;
+}
+
+.contact__container {
+  width: 579px;
+  margin: 0 auto;
+  padding: 90px 681px 60px 180px;
+  background: url(../../img/charles-etoroma-390119.jpg) no-repeat right top;
+}
+
+.contact__name {
+  font-size: 16px;
+  line-height: 12px;
+  color: white;
+}
+
+.contact__title {
+  margin-top: 215px;
+  margin-bottom: 55px;
+  font-size: 57px;
+  line-height: 94px;
+}
+
+.contact__text {
+  font-size: 36px;
+  line-height: 53px;
+  margin-bottom: 59px;
+}
+
+.contact__link {
+  font-size: 16px;
+  line-height: 12px;
+  color: #62D0DF;
+}

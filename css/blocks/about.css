@@ -1,0 +1,18 @@
+.about__container {
+  width: 1230px;
+  padding: 125px 105px 25px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 320px 600px;
+}
+
+.about__name {
+  font-size: 16px;
+  line-height: 22px;
+  margin-top: 30px;
+}
+
+.about__text {
+  font-size: 24px;
+  line-height: 37px;
+}

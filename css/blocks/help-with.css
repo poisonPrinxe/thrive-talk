@@ -1,0 +1,31 @@
+.help-with__container {
+  margin: 0 auto;
+  padding: 0;
+  width: 1440px;
+}
+
+.help-with__name {
+  text-align: center;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.help-with__list {
+  list-style: none;
+  padding: 0;
+  color: white;
+  display: flex;
+  background: linear-gradient(to right, #FFE2DE 360px, #C4E769 360px, #C4E769 720px, #62D0DF 720px, #62D0DF 1080px, #0052C1 1080px);
+}
+
+.help-with__item {
+  font-weight: bold;
+  width: 204px;
+  height: 265px;
+  padding: 95px 78px 0;
+}
+
+.help-with__item-inner {
+  margin: 0;
+  border-top: 1px solid white;
+}

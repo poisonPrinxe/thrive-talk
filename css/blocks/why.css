@@ -1,0 +1,26 @@
+.why {
+  color: white;
+  background: #62D0DF;
+}
+
+.why__main-group {
+  background: url("../../img/christopher-campbell-40367.jpg") no-repeat right top;
+  width: 555px;
+  padding: 130px 705px 50px 180px;
+  margin: 0 auto;
+}
+
+.why__headline {
+  margin-bottom: 80px;
+}
+
+.why__text {
+  font-size: 20px;
+  line-height: 29px;
+}
+
+.why__bolded {
+  font-size: 24px;
+  line-height: 35px;
+  font-weight: bold;
+}

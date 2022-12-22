@@ -1,0 +1,29 @@
+.blog {
+  width: 676px;
+  padding: 93px 178px 50px 586px;
+  margin: 0 auto;
+  background: url(../../img/linkedin-sales-navigator-402831.jpg) no-repeat left top;
+}
+
+.blog__name {
+  font-size: 16px;
+  line-height: 12px;
+  margin-bottom: 225px;
+}
+
+.blog__text {
+  font-size: 36px;
+  line-height: 53px;
+  font-weight: bold;
+  margin-bottom: 100px;
+}
+
+.blog__titledrop {
+  color: #6CD3E1;
+}
+
+.blog__link {
+  font-size: 16px;
+  line-height: 12px;
+  color: #FAB63E;
+}

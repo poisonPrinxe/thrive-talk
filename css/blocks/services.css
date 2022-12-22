@@ -1,0 +1,24 @@
+.services {
+  width: 1440px;
+  height: 960px;
+  margin: 100px auto 0;
+  background: url(../../img/services-background.png);
+}
+
+.services__list {
+  color: white;
+  list-style-type: none;
+  margin: 0 auto;
+  width: 1440px;
+  display: grid;
+  grid-template-columns: 280px 280px 280px;
+  grid-template-rows: auto auto;
+  grid-row-gap: 245px;
+  grid-column-gap: 200px;
+}
+
+.services__item {
+  margin-top: 100px;
+  padding: 50px 0 50px 0;
+  border-top: 1px solid white;
+}

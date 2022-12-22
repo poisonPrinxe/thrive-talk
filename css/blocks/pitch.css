@@ -1,0 +1,72 @@
+.pitch {
+  background: linear-gradient(to right, #F4F9E2 50%, white 50%);
+}
+
+.pitch__header {
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 160px;
+}
+
+.pitch__nav {
+  width: 235px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.pitch__nav-link--active {
+}
+
+.pitch__header-button {
+  color: white;
+  background-color: #62D0DF;
+  padding: 19px 30px;
+  border-style: none;
+  border-radius: 50px;
+}
+
+.pitch__container {
+  width: 1080px;
+  height: 738px;
+  padding: 27px 180px 75px;
+  margin: 0 auto;
+  background: url(../../img/pitch-background.png) no-repeat 795px top, linear-gradient(to right, #F4F9E2 1117px, white 1117px);
+}
+
+.pitch__main-group {
+  width: 470px;
+}
+
+.pitch__headline {
+  font-size: 48px;
+  line-height: 53px;
+  letter-spacing: -4px;
+  margin-bottom: 65px;
+}
+
+.pitch__text {
+  font-size: 24px;
+  line-height: 45px;
+  letter-spacing: -0.6px;
+  margin-bottom: 47px;
+}
+
+.pitch__main-button {
+  padding: 13px 30px;
+  font-size: 16px;
+  line-height: 23px;
+  letter-spacing: 1px;
+  font-weight: 600;
+  border-style: none;
+  border-radius: 0px;
+  color: #FAB63E;
+  background-color: #F4F9E2;
+}
+
+.pitch__main-button:hover {
+  color: #F4F9E2;
+  background-color: #FAB63E;
+}

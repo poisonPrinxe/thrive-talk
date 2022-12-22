@@ -1,0 +1,28 @@
+.info {
+  width: 804px;
+  margin: 0 auto;
+  padding: 62px 40px 44px 596px;
+  background: url(../../img/autumn-goodman-242825.jpg) no-repeat left top;
+}
+
+.info__list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.info__item {
+  width: 240px;
+}
+
+.info__item-title {
+  font-size: 14px;
+  line-height: 10px;
+  margin-bottom: 52px;
+}
+
+.info__item-text {
+  font-size: 14px;
+  line-height: 25px;
+  margin-bottom: 25px;
+}
