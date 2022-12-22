@@ -1,0 +1,20 @@
+body {
+  min-width: 320px;
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  color: #22356F;
+  background-color: #ffffff;
+  font-size: 24px;
+  line-height: 34px;
+  font-weight: 400;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+}
